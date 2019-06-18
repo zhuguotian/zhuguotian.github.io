@@ -5,7 +5,7 @@ description: My personal understanding on callback functions and the ways javasc
 category: blog
 ---
 
-## asynchronous(异步进程)
+## basic concepts
 First from last semester OS course, we know that a program(程序) must include at least one process(进程), and one process must include at least on thread(线程).
 
 <ul>
@@ -15,5 +15,7 @@ First from last semester OS course, we know that a program(程序) must include 
 </ul>
 
 After some basic concept, we know that usually a browser is multi-threaded, Javascript, on the other hand, is a [single threaded language][]. 
+
+
 
 [single threaded language]: https://blog.csdn.net/baidu_24024601/article/details/51861792 "单线程分析"

@@ -1,3 +1,11 @@
+---
+layout: post
+title: RDF--Resource Description Framework
+description: some basic RDF information and concepts
+category: blog
+---
+
+
 ## WWW and Internet: same beast, differnt animal
 The internet is a global network of networks, the WWW is a collectinos of information which is accessed via the internet. Alternatively, the Internet can be viewed as a big book-store while the Web can be viewed as collection of books on that store. At a high level, we can even think of the Internet as hardware and the Web as software!
 

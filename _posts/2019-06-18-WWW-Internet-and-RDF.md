@@ -14,7 +14,8 @@ RDF is a basic data structure for linked data, and the way data are stored is th
 >A triple store is designed to store and retrieve identities that are constructed from triplex collections of strings (sequences of letters). These triplex collections represent a subject-predicate-object(主-谓-宾) relationship that more or less corresponds to the definition put forth by the RDF standard.
 ><p align="right">—Jack Rusher</p>
 Here is an example of a RDF data:
-```xml
+
+```html
 <?xml version="1.0"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -26,7 +27,7 @@ Here is an example of a RDF data:
 
 By going to [w3c RDF verification website][], you would have the above code as:
 
-``` html
+
 <table frame="border" rules="all">
     <tbody>
         <tr>
@@ -57,5 +58,7 @@ By going to [w3c RDF verification website][], you would have the above code as:
         </tr>
     </tbody>
 </table>
-```
+
+
+
 [w3c RDF verification website]: http://www.w3.org/RDF/Validator/
